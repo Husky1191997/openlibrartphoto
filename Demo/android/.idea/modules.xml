@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Demo.iml" filepath="$PROJECT_DIR$/.idea/modules/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Demo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Demo.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/784270700/Demo.react-native-autogrow-textinput.iml" filepath="$PROJECT_DIR$/.idea/modules/784270700/Demo.react-native-autogrow-textinput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1081408792/Demo.react-native-bottom-sheet-behavior.iml" filepath="$PROJECT_DIR$/.idea/modules/-1081408792/Demo.react-native-bottom-sheet-behavior.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/806289387/Demo.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/806289387/Demo.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-720631988/Demo.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-720631988/Demo.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2072733894/Demo.react-native-image-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-2072733894/Demo.react-native-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-687065264/Demo.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-687065264/Demo.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-386237259/Demo.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-386237259/Demo.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1689471757/Demo.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1689471757/Demo.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-447466486/Demo.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-447466486/Demo.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1792995201/Demo.react-native-video.iml" filepath="$PROJECT_DIR$/.idea/modules/1792995201/Demo.react-native-video.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/948414335/Demo.react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/948414335/Demo.react-native-webview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1477662508/Demo.reactnativekeyboardinput.iml" filepath="$PROJECT_DIR$/.idea/modules/-1477662508/Demo.reactnativekeyboardinput.iml" />
+    </modules>
+  </component>
+</project>
