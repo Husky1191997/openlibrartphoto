@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/valaweb/Bkav/Demo/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml",
+            "outputFile": "/home/valaweb/Bkav/chatBkav/Demo/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml",
             "map": [
                 {
                     "source": "/home/valaweb/.gradle/caches/transforms-2/files-2.1/4f3e3536c8bf9e8cb1939d2a5eeaba3a/core-1.3.1/res/values-fr-rCA/values-fr-rCA.xml",

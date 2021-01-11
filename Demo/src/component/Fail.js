@@ -15,10 +15,7 @@ import {
 } from 'react-native-keyboard-input';
 import {AutoGrowingTextInput} from 'react-native-autogrow-textinput';
 import PropTypes from 'prop-types';
-// import {Icon} from 'react-native-elements';
-// import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import '../component/KeyboardView';
-import Icon from 'react-native-vector-icons/Feather';
 
 const IsIOS = Platform.OS === 'ios';
 const TrackInteractive = true;
@@ -45,7 +42,6 @@ export class HomeChat extends React.Component {
       receivedKeyboardData: undefined,
       useSafeArea: true,
       keyboardOpenState: false,
-      visible: false,
     };
   }
 
